@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <application name="webvi_plugin" xmlns="urn:com:ni:web:privilege">  
     <!-- Use xml:lang to define localized descriptions. -->  
-    <description xml:lang="en">WebVI</description>    
+    <description xml:lang="en">Production Test HMI</description>    
     <privileges>  
         <!-- Define a privilege that requires the users role. -->  
         <privilege id="ViewResource">  
